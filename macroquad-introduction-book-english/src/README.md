@@ -27,11 +27,13 @@ The source code for all chapters of this book is available here:
 <div class="card">
 <div class="card__border"></div>
 <div class="card_title__container">
-<span class="card_title">Buy the print book</span>
+<span class="card_title">25% discount!</span>
 <p class="card_paragraph">
-This guide is now available to buy as a full color print book with a hard
+<span style="font-size: 2.6rem">Buy the book before December 31st, 2025 to get a 25% discount!</span><br>
+
+This guide is available to buy as a full color print book with a hard
 cover. You can <a href="https://agical.se/buymq">buy the book online</a>
-for €32/$35/£28 on the Lulu web shop.
+for €24/$25/£20 on the Lulu web shop.
 </p>
 <div class="centered with-margin">
 <a href="https://agical.se/buymq">
